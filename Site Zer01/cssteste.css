@@ -1,0 +1,28 @@
+form {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  color: #333;
+}
+
+label {
+  font-size: 14px;
+  color: #333;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
