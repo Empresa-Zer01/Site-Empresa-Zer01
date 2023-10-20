@@ -604,3 +604,11 @@ font-size: 35px;
   padding: 14px 16px;
   text-decoration: none;
 }
+
+.homee{
+  display: block;
+  color: white; /* Cor do texto normal */
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
